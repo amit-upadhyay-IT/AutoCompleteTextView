@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="please_enter_your_state_city">Please Enter your State/City</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="abc">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>
